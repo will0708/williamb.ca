@@ -80,7 +80,7 @@ $(function() {
 
     // typejs
     $('.header .caption h3').typed({
-        strings: ["Quantum Computing Enthusiast", "TKS Innovator", "Influencer"],
+        strings: ["Personalized Medicine Enthusiast", "TKS Innovator", "CEO of ThermoBeat"],
         loop: true,
         startDelay: 1000,
         backDelay: 1000,
