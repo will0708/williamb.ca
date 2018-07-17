@@ -251,7 +251,7 @@ p {
   height: 100vh;
   width: 100%;
   position: relative;
-  background-image: url(../img/TKSummit2.jpg);
+  background-image: url(../img/showcase.jpeg);
   background-attachment: fixed;
   background-size: cover;
   overflow: hidden;
@@ -778,7 +778,7 @@ p {
                      Hire 
 -------------------------------------------------------- */
 .hire {
-  background-image: url(../img/showcase.jpg);
+  background-image: url(../img/rigetti.jpg);
   background-attachment: fixed;
   background-size: cover;
   position: relative;
